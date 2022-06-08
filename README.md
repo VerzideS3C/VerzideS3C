@@ -63,29 +63,6 @@ I like to make hacking/pentest oriented tools.*
 <a href="#"><img src="https://img.shields.io/badge/Editor-PyCharm-100000?style=for-the-badge&logo=PyCharm&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 
-*Browsers*
-
-<a href="#"><img alt="firefox browser" src="https://img.shields.io/badge/Firefox_for parrot-[79.0]-100000?style=for-the-badge&logo=firefox browser&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Chromium-90.0.4430.212 [Only for accessing sites that require flash player]-100000?style=for-the-badge&logo=Google Chrome&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Google Chrome" src="https://img.shields.io/badge/Google_Chrome-93.0.4577.63 [For testing my bots]-100000?style=for-the-badge&logo=Google Chrome&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Tor Browser" src="https://img.shields.io/badge/Tor_Browser-0.4.3.6 [Obviously to get into the onion network and camouflage myself.]-100000?style=for-the-badge&logo=Tor Browser&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-*Programs I use for design*
-
-<a href="#"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/ADOBE-PHOTOSHOP-100000?style=for-the-badge&logo=Adobe Photoshop&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Adobe After Effects" src="https://img.shields.io/badge/ADOBE-AFTER_EFFECTS-100000?style=for-the-badge&logo=Adobe After Effects&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Cinema 4D" src="https://img.shields.io/badge/CINEMA-4D-100000?style=for-the-badge&logo=Cinema 4D&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="Sony" src="https://img.shields.io/badge/SONY-VEGAS_PRO-100000?style=for-the-badge&logo=Sony&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-100000?style=for-the-badge&logo=GIMP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-
 ##
 
 ## Thanks for accessing my profile, goodbye little friend!
