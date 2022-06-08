@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=Verzidesec&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
 
-<img id="verzideperfil" src="https://github-stats-alpha.vercel.app/api/?username=verzidesec&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
+<img id="verzideperfil" src="https://github-stats-alpha.vercel.app/api/?username=verzides3c&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
 
 ##
 
