@@ -92,24 +92,6 @@ I like to make hacking/pentest oriented tools.*
 <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-100000?style=for-the-badge&logo=GIMP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
 
-*My friends*
-
-<a href="https://t.me/OmgGass" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/gass-telegram-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/azz4_defalt" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/Defalt-telegram-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/Helior11" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/helior-telegram-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/pedrostyxx" target="_blank"><img alt="github" src="https://img.shields.io/badge/pedrostyxx-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/JakePeraltah" target="_blank"><img alt="github" src="https://img.shields.io/badge/JAKE-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/azz4defalt" target="_blank"><img alt="github" src="https://img.shields.io/badge/defalt-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/Team-root" target="_blank"><img alt="github" src="https://img.shields.io/badge/team_root-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://github.com/heIior" target="_blank"><img alt="github" src="https://img.shields.io/badge/helior-github-100000?style=for-the-badge&logo=github&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
 ##
 
 ## Thanks for accessing my profile, goodbye little friend!
