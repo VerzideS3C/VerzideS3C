@@ -91,30 +91,6 @@ I like to make hacking/pentest oriented tools.*
 
 <a href="#"><img alt="GIMP" src="https://img.shields.io/badge/GIMP-100000?style=for-the-badge&logo=GIMP&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
 
-**My contacts:**
-
-<a href="malito:fatalsec@dnmx.org" target="_blank"><img alt="" src="https://img.shields.io/badge/DNMX-EMAIL-100000?style=for-the-badge&logo=&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://www.instagram.com/fatalledits/" target="_blank"><img alt="INSTAGRAM" src="https://img.shields.io/badge/FATALSEC-INSTAGRAM-100000?style=for-the-badge&logo=INSTAGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/fatalsec" target="_blank"><img alt="TELEGRAM" src="https://img.shields.io/badge/FATALSEC-TELEGRAM-100000?style=for-the-badge&logo=TELEGRAM&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://twitter.com/f4t4lsec" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/FATALSEC-TWITTER-100000?style=for-the-badge&logo=twitter&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://www.youtube.com/channel/UCVroJZsK3Qrvtvnk7NCKn-A" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/FATALSEC-YOUTUBE-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://t.me/+0GyvzDcKtwY2ODc5" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/archon-group-100000?style=for-the-badge&logo=telegram&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-*My teams | sites | and groups*
-
-<a href="https://archon.teamroot.com.br" target="_blank"><img alt="Windows Terminal" src="https://img.shields.io/badge/ARCHON-SITE-100000?style=for-the-badge&logo=Windows Terminal&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://teamroot.com.br/" target="_blank"><img alt="GNU bash" src="https://img.shields.io/badge/TEAM_ROOT-SITE-100000?style=for-the-badge&logo=GNU bash&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href="https://fatalsec.keybase.pub/" target="_blank"><img alt="keybase" src="https://img.shields.io/badge/FATALSEC-KEYBASE-100000?style=for-the-badge&logo=keybase&logoColor=7759b5&labelColor=212121&color=7759b5"/></a>
-
-<a href='https://www.youtube.com/channel/UCm1zkDjD_rqTn3GxS0gzzUg' target="_blank"><img alt='youtube' src='https://img.shields.io/badge/archon-youtube-100000?style=for-the-badge&logo=youtube&logoColor=7759b5&labelColor=212121&color=7759b5'/></a>
-
 
 *My friends*
 
