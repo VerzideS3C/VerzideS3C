@@ -4,15 +4,18 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Hello%2C+welcome+to+my+github!;Be+a+good+boy+and+give+stars+to+my+projects!;My+name+is+verzidesec">
+<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=Hello%2C+welcome+to+my+github!;Be+a+good+boy+and+give+stars+to+my+projects!;My+name+is+fatalsec">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=Verzidesec&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7759b5&height=300&section=header&text=Fatalsec&fontSize=90&desc=I am a developer! (or trying to be)&animation=fadeIn&fontColor=ac7ed6&descSize=30"/>
 
-<img id="verzideperfil" src="https://github-stats-alpha.vercel.app/api/?username=verzides3c&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
+<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=fatals3c&cc=000000&tc=7759b5&ic=9c6bff&bc=402773"/>
 
 ##
 
 <img src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=php&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=GNU bash&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=tor&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=debian&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&"/><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&animation=spin&fill=black&textfill=bface6&"/>
+
+
+
 
 
 
